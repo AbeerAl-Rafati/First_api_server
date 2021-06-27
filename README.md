@@ -2,10 +2,10 @@
 *Auther: Abeer Rafati*
 
 **This app to explain how to creat a server and test it for deployment(Heroku)**
-[Dev branch deployment](https://abeer-server-deploy-dev.herokuapp.com/)
-[Produchion deployment](https://abeer-server-deploy-prod.herokuapp.com/)
-[Github actions](https://github.com/AbeerAl-Rafati/First_api_server/actions)
-[Pull req](https://github.com/AbeerAl-Rafati/First_api_server/pull/1)
+[Dev branch deployment](https://abeer-server-deploy-dev.herokuapp.com/)   
+[Produchion deployment](https://abeer-server-deploy-prod.herokuapp.com/)   
+[Github actions](https://github.com/AbeerAl-Rafati/First_api_server/actions)   
+[Pull req](https://github.com/AbeerAl-Rafati/First_api_server/pull/1)   
 
 
 
