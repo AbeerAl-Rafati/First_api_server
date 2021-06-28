@@ -20,3 +20,7 @@
 > `npm test`    
 - to run lint use in terminl 
 > `npm run lint`  
+
+
+
+![image](assets/lab1_uml.PNG)
